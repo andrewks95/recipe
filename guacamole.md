@@ -5,3 +5,4 @@
 * salt
 ## Instructions
 * peel avocados
+* cut limes
